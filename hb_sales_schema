@@ -6,9 +6,5 @@
   {
     "name": "Downloads",
     "type": "number"
-  },
-  {
-    "name": "Web Visits",
-    "type": "number"
   }
   ]
