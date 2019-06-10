@@ -4,7 +4,7 @@
     "format": "%e-%b-%Y"
   },
   {
-    "name": "Downloads",
+    "name": "Sales",
     "type": "number"
   }
   ]
